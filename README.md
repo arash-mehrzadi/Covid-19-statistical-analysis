@@ -30,4 +30,3 @@ This codes is built using Python 3.7.5, and utilizes the following packages;
 - pandas 1.0.3
 - matplotlib 3.2.1
 
-I suggest you use this [ShellScript.sh](https://www.google.com) to download all packages that you need .
