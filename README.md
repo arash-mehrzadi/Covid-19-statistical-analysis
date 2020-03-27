@@ -1,2 +1,2 @@
 # Covid-19-statistical-analysis
-<img src="/Temp(Not_Important)/screenshots/s1.png" width=100%>
+<img src="/Temp(Not_Important)/screenshots/s2.png" width="whatever" height="whatever">
