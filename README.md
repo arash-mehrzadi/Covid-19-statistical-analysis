@@ -9,6 +9,13 @@
 | ------------- | ------------- |
 | Geographical Charts  | Statistical analysis of cities' mortality distribution and implementation of results on geographic maps |
 | Treemap   | Analysis of statistical data on the dead, recovered and people with the Corona virus  |
+| Bubble Geomap   | plot coronavirus Death cases spread on Geomap using Basemap |
+
+# Bubble Geomap 
+
+![](Covid-19-statistical-analysis/Temp(Not_Important)/Gifs/Bubble_Geomap_GIF.gif)
+
+In this section I used statistical data, including casualties due to the outbreak of the Korona virus in Iran, recorded in different cities and updated the results of my assessments, which included a detailed analysis of 31 provinces of Iran on a daily basis. I published a geographic map.
 
 # Geographical Charts
 
