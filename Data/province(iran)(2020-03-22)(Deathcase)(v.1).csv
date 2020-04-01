@@ -1,0 +1,1024 @@
+,city,Date,Death
+0,Qom,2020/02/19,2.0
+1,Qom,2020/02/20,2.0
+2,Qom,2020/02/21,7.0
+3,Qom,2020/02/22,8.0
+4,Qom,2020/02/23,7.0
+5,Qom,2020/02/24,8.0
+6,Qom,2020/02/25,16.0
+7,Qom,2020/02/26,15.0
+8,Qom,2020/02/27,7.0
+9,Qom,2020/02/28,16.0
+10,Qom,2020/02/29,21.0
+11,Qom,2020/03/01,30.0
+12,Qom,2020/03/02,
+13,Qom,2020/03/03,
+14,Qom,2020/03/04,101.0
+15,Qom,2020/03/05,32.0
+16,Qom,2020/03/06,137.0
+17,Qom,2020/03/07,145.0
+18,Qom,2020/03/08,17.0
+19,Qom,2020/03/09,27.0
+20,Qom,2020/03/10,39.0
+21,Qom,2020/03/11,53.0
+22,Qom,2020/03/12,42.0
+23,Qom,2020/03/13,42.0
+24,Qom,2020/03/14,32.0
+25,Qom,2020/03/15,84.0
+26,Qom,2020/03/16,19.0
+27,Qom,2020/03/17,29.0
+28,Qom,2020/03/18,22.0
+29,Qom,2020/03/19,31.0
+30,Qom,2020/03/20,36.0
+31,Qom,2020/03/21,20.0
+32,Qom,2020/03/22,17.0
+33,Tehran,2020/02/19,
+34,Tehran,2020/02/20,
+35,Tehran,2020/02/21,4.0
+36,Tehran,2020/02/22,2.0
+37,Tehran,2020/02/23,4.0
+38,Tehran,2020/02/24,3.0
+39,Tehran,2020/02/25,8.0
+40,Tehran,2020/02/26,4.0
+41,Tehran,2020/02/27,38.0
+42,Tehran,2020/02/28,64.0
+43,Tehran,2020/02/29,52.0
+44,Tehran,2020/03/01,170.0
+45,Tehran,2020/03/02,
+46,Tehran,2020/03/03,
+47,Tehran,2020/03/04,253.0
+48,Tehran,2020/03/05,56.0
+49,Tehran,2020/03/06,61.0
+50,Tehran,2020/03/07,126.0
+51,Tehran,2020/03/08,266.0
+52,Tehran,2020/03/09,140.0
+53,Tehran,2020/03/10,169.0
+54,Tehran,2020/03/11,256.0
+55,Tehran,2020/03/12,303.0
+56,Tehran,2020/03/13,303.0
+57,Tehran,2020/03/14,347.0
+58,Tehran,2020/03/15,251.0
+59,Tehran,2020/03/16,200.0
+60,Tehran,2020/03/17,273.0
+61,Tehran,2020/03/18,213.0
+62,Tehran,2020/03/19,137.0
+63,Tehran,2020/03/20,220.0
+64,Tehran,2020/03/21,232.0
+65,Tehran,2020/03/22,249.0
+66,Mazandaran,2020/02/19,
+67,Mazandaran,2020/02/20,
+68,Mazandaran,2020/02/21,
+69,Mazandaran,2020/02/22,
+70,Mazandaran,2020/02/23,1.0
+71,Mazandaran,2020/02/24,
+72,Mazandaran,2020/02/25,2.0
+73,Mazandaran,2020/02/26,1.0
+74,Mazandaran,2020/02/27,7.0
+75,Mazandaran,2020/02/28,9.0
+76,Mazandaran,2020/02/29,12.0
+77,Mazandaran,2020/03/01,11.0
+78,Mazandaran,2020/03/02,
+79,Mazandaran,2020/03/03,
+80,Mazandaran,2020/03/04,9.0
+81,Mazandaran,2020/03/05,50.0
+82,Mazandaran,2020/03/06,180.0
+83,Mazandaran,2020/03/07,305.0
+84,Mazandaran,2020/03/08,14.0
+85,Mazandaran,2020/03/09,13.0
+86,Mazandaran,2020/03/10,253.0
+87,Mazandaran,2020/03/11,32.0
+88,Mazandaran,2020/03/12,79.0
+89,Mazandaran,2020/03/13,192.0
+90,Mazandaran,2020/03/14,17.0
+91,Mazandaran,2020/03/15,72.0
+92,Mazandaran,2020/03/16,96.0
+93,Mazandaran,2020/03/17,59.0
+94,Mazandaran,2020/03/18,61.0
+95,Mazandaran,2020/03/19,58.0
+96,Mazandaran,2020/03/20,84.0
+97,Mazandaran,2020/03/21,28.0
+98,Mazandaran,2020/03/22,36.0
+99,Alborz,2020/02/19,
+100,Alborz,2020/02/20,
+101,Alborz,2020/02/21,
+102,Alborz,2020/02/22,
+103,Alborz,2020/02/23,
+104,Alborz,2020/02/24,
+105,Alborz,2020/02/25,2.0
+106,Alborz,2020/02/26,
+107,Alborz,2020/02/27,3.0
+108,Alborz,2020/02/28,3.0
+109,Alborz,2020/02/29,8.0
+110,Alborz,2020/03/01,31.0
+111,Alborz,2020/03/02,
+112,Alborz,2020/03/03,
+113,Alborz,2020/03/04,19.0
+114,Alborz,2020/03/05,61.0
+115,Alborz,2020/03/06,129.0
+116,Alborz,2020/03/07,3.0
+117,Alborz,2020/03/08,2.0
+118,Alborz,2020/03/09,
+119,Alborz,2020/03/10,32.0
+120,Alborz,2020/03/11,45.0
+121,Alborz,2020/03/12,74.0
+122,Alborz,2020/03/13,6.0
+123,Alborz,2020/03/14,134.0
+124,Alborz,2020/03/15,67.0
+125,Alborz,2020/03/16,49.0
+126,Alborz,2020/03/17,116.0
+127,Alborz,2020/03/18,76.0
+128,Alborz,2020/03/19,61.0
+129,Alborz,2020/03/20,95.0
+130,Alborz,2020/03/21,55.0
+131,Alborz,2020/03/22,60.0
+132,Semnan,2020/02/19,
+133,Semnan,2020/02/20,
+134,Semnan,2020/02/21,
+135,Semnan,2020/02/22,
+136,Semnan,2020/02/23,
+137,Semnan,2020/02/24,
+138,Semnan,2020/02/25,
+139,Semnan,2020/02/26,1.0
+140,Semnan,2020/02/27,3.0
+141,Semnan,2020/02/28,2.0
+142,Semnan,2020/02/29,4.0
+143,Semnan,2020/03/01,3.0
+144,Semnan,2020/03/02,
+145,Semnan,2020/03/03,
+146,Semnan,2020/03/04,8.0
+147,Semnan,2020/03/05,22.0
+148,Semnan,2020/03/06,54.0
+149,Semnan,2020/03/07,24.0
+150,Semnan,2020/03/08,37.0
+151,Semnan,2020/03/09,45.0
+152,Semnan,2020/03/10,1.0
+153,Semnan,2020/03/11,63.0
+154,Semnan,2020/03/12,40.0
+155,Semnan,2020/03/13,38.0
+156,Semnan,2020/03/14,47.0
+157,Semnan,2020/03/15,41.0
+158,Semnan,2020/03/16,34.0
+159,Semnan,2020/03/17,33.0
+160,Semnan,2020/03/18,60.0
+161,Semnan,2020/03/19,16.0
+162,Semnan,2020/03/20,52.0
+163,Semnan,2020/03/21,
+164,Semnan,2020/03/22,
+165,Golestan,2020/02/19,
+166,Golestan,2020/02/20,
+167,Golestan,2020/02/21,
+168,Golestan,2020/02/22,
+169,Golestan,2020/02/23,
+170,Golestan,2020/02/24,
+171,Golestan,2020/02/25,
+172,Golestan,2020/02/26,
+173,Golestan,2020/02/27,
+174,Golestan,2020/02/28,2.0
+175,Golestan,2020/02/29,22.0
+176,Golestan,2020/03/01,
+177,Golestan,2020/03/02,
+178,Golestan,2020/03/03,
+179,Golestan,2020/03/04,9.0
+180,Golestan,2020/03/05,4.0
+181,Golestan,2020/03/06,67.0
+182,Golestan,2020/03/07,58.0
+183,Golestan,2020/03/08,13.0
+184,Golestan,2020/03/09,
+185,Golestan,2020/03/10,4.0
+186,Golestan,2020/03/11,9.0
+187,Golestan,2020/03/12,25.0
+188,Golestan,2020/03/13,21.0
+189,Golestan,2020/03/14,
+190,Golestan,2020/03/15,25.0
+191,Golestan,2020/03/16,42.0
+192,Golestan,2020/03/17,30.0
+193,Golestan,2020/03/18,20.0
+194,Golestan,2020/03/19,9.0
+195,Golestan,2020/03/20,15.0
+196,Golestan,2020/03/21,6.0
+197,Golestan,2020/03/22,10.0
+198,Qazvin,2020/02/19,
+199,Qazvin,2020/02/20,
+200,Qazvin,2020/02/21,
+201,Qazvin,2020/02/22,
+202,Qazvin,2020/02/23,
+203,Qazvin,2020/02/24,
+204,Qazvin,2020/02/25,
+205,Qazvin,2020/02/26,
+206,Qazvin,2020/02/27,
+207,Qazvin,2020/02/28,2.0
+208,Qazvin,2020/02/29,6.0
+209,Qazvin,2020/03/01,
+210,Qazvin,2020/03/02,
+211,Qazvin,2020/03/03,
+212,Qazvin,2020/03/04,25.0
+213,Qazvin,2020/03/05,31.0
+214,Qazvin,2020/03/06,65.0
+215,Qazvin,2020/03/07,2.0
+216,Qazvin,2020/03/08,29.0
+217,Qazvin,2020/03/09,40.0
+218,Qazvin,2020/03/10,10.0
+219,Qazvin,2020/03/11,27.0
+220,Qazvin,2020/03/12,42.0
+221,Qazvin,2020/03/13,12.0
+222,Qazvin,2020/03/14,47.0
+223,Qazvin,2020/03/15,22.0
+224,Qazvin,2020/03/16,40.0
+225,Qazvin,2020/03/17,26.0
+226,Qazvin,2020/03/18,53.0
+227,Qazvin,2020/03/19,47.0
+228,Qazvin,2020/03/20,8.0
+229,Qazvin,2020/03/21,59.0
+230,Qazvin,2020/03/22,29.0
+231,Esfahan,2020/02/19,
+232,Esfahan,2020/02/20,
+233,Esfahan,2020/02/21,
+234,Esfahan,2020/02/22,
+235,Esfahan,2020/02/23,
+236,Esfahan,2020/02/24,2.0
+237,Esfahan,2020/02/25,
+238,Esfahan,2020/02/26,
+239,Esfahan,2020/02/27,8.0
+240,Esfahan,2020/02/28,10.0
+241,Esfahan,2020/02/29,12.0
+242,Esfahan,2020/03/01,13.0
+243,Esfahan,2020/03/02,
+244,Esfahan,2020/03/03,
+245,Esfahan,2020/03/04,
+246,Esfahan,2020/03/05,118.0
+247,Esfahan,2020/03/06,150.0
+248,Esfahan,2020/03/07,96.0
+249,Esfahan,2020/03/08,80.0
+250,Esfahan,2020/03/09,37.0
+251,Esfahan,2020/03/10,17.0
+252,Esfahan,2020/03/11,170.0
+253,Esfahan,2020/03/12,4.0
+254,Esfahan,2020/03/13,110.0
+255,Esfahan,2020/03/14,155.0
+256,Esfahan,2020/03/15,126.0
+257,Esfahan,2020/03/16,118.0
+258,Esfahan,2020/03/17,75.0
+259,Esfahan,2020/03/18,162.0
+260,Esfahan,2020/03/19,108.0
+261,Esfahan,2020/03/20,145.0
+262,Esfahan,2020/03/21,101.0
+263,Esfahan,2020/03/22,87.0
+264,Fars,2020/02/19,
+265,Fars,2020/02/20,
+266,Fars,2020/02/21,
+267,Fars,2020/02/22,
+268,Fars,2020/02/23,
+269,Fars,2020/02/24,
+270,Fars,2020/02/25,1.0
+271,Fars,2020/02/26,2.0
+272,Fars,2020/02/27,
+273,Fars,2020/02/28,
+274,Fars,2020/02/29,8.0
+275,Fars,2020/03/01,8.0
+276,Fars,2020/03/02,
+277,Fars,2020/03/03,
+278,Fars,2020/03/04,14.0
+279,Fars,2020/03/05,19.0
+280,Fars,2020/03/06,13.0
+281,Fars,2020/03/07,14.0
+282,Fars,2020/03/08,9.0
+283,Fars,2020/03/09,29.0
+284,Fars,2020/03/10,18.0
+285,Fars,2020/03/11,19.0
+286,Fars,2020/03/12,29.0
+287,Fars,2020/03/13,33.0
+288,Fars,2020/03/14,11.0
+289,Fars,2020/03/15,9.0
+290,Fars,2020/03/16,43.0
+291,Fars,2020/03/17,31.0
+292,Fars,2020/03/18,60.0
+293,Fars,2020/03/19,21.0
+294,Fars,2020/03/20,50.0
+295,Fars,2020/03/21,22.0
+296,Fars,2020/03/22,26.0
+297,Hormozgan,2020/02/19,
+298,Hormozgan,2020/02/20,
+299,Hormozgan,2020/02/21,
+300,Hormozgan,2020/02/22,
+301,Hormozgan,2020/02/23,
+302,Hormozgan,2020/02/24,
+303,Hormozgan,2020/02/25,1.0
+304,Hormozgan,2020/02/26,1.0
+305,Hormozgan,2020/02/27,
+306,Hormozgan,2020/02/28,
+307,Hormozgan,2020/02/29,
+308,Hormozgan,2020/03/01,2.0
+309,Hormozgan,2020/03/02,
+310,Hormozgan,2020/03/03,
+311,Hormozgan,2020/03/04,
+312,Hormozgan,2020/03/05,2.0
+313,Hormozgan,2020/03/06,6.0
+314,Hormozgan,2020/03/07,11.0
+315,Hormozgan,2020/03/08,5.0
+316,Hormozgan,2020/03/09,17.0
+317,Hormozgan,2020/03/10,17.0
+318,Hormozgan,2020/03/11,10.0
+319,Hormozgan,2020/03/12,
+320,Hormozgan,2020/03/13,4.0
+321,Hormozgan,2020/03/14,
+322,Hormozgan,2020/03/15,7.0
+323,Hormozgan,2020/03/16,16.0
+324,Hormozgan,2020/03/17,6.0
+325,Hormozgan,2020/03/18,12.0
+326,Hormozgan,2020/03/19,5.0
+327,Hormozgan,2020/03/20,17.0
+328,Hormozgan,2020/03/21,
+329,Hormozgan,2020/03/22,2.0
+330,Kohgiluyeh and Buyer Ahmad,2020/02/19,
+331,Kohgiluyeh and Buyer Ahmad,2020/02/20,
+332,Kohgiluyeh and Buyer Ahmad,2020/02/21,
+333,Kohgiluyeh and Buyer Ahmad,2020/02/22,
+334,Kohgiluyeh and Buyer Ahmad,2020/02/23,
+335,Kohgiluyeh and Buyer Ahmad,2020/02/24,
+336,Kohgiluyeh and Buyer Ahmad,2020/02/25,
+337,Kohgiluyeh and Buyer Ahmad,2020/02/26,2.0
+338,Kohgiluyeh and Buyer Ahmad,2020/02/27,
+339,Kohgiluyeh and Buyer Ahmad,2020/02/28,
+340,Kohgiluyeh and Buyer Ahmad,2020/02/29,
+341,Kohgiluyeh and Buyer Ahmad,2020/03/01,
+342,Kohgiluyeh and Buyer Ahmad,2020/03/02,
+343,Kohgiluyeh and Buyer Ahmad,2020/03/03,
+344,Kohgiluyeh and Buyer Ahmad,2020/03/04,
+345,Kohgiluyeh and Buyer Ahmad,2020/03/05,
+346,Kohgiluyeh and Buyer Ahmad,2020/03/06,4.0
+347,Kohgiluyeh and Buyer Ahmad,2020/03/07,
+348,Kohgiluyeh and Buyer Ahmad,2020/03/08,3.0
+349,Kohgiluyeh and Buyer Ahmad,2020/03/09,
+350,Kohgiluyeh and Buyer Ahmad,2020/03/10,2.0
+351,Kohgiluyeh and Buyer Ahmad,2020/03/11,
+352,Kohgiluyeh and Buyer Ahmad,2020/03/12,15.0
+353,Kohgiluyeh and Buyer Ahmad,2020/03/13,
+354,Kohgiluyeh and Buyer Ahmad,2020/03/14,
+355,Kohgiluyeh and Buyer Ahmad,2020/03/15,1.0
+356,Kohgiluyeh and Buyer Ahmad,2020/03/16,5.0
+357,Kohgiluyeh and Buyer Ahmad,2020/03/17,
+358,Kohgiluyeh and Buyer Ahmad,2020/03/18,13.0
+359,Kohgiluyeh and Buyer Ahmad,2020/03/19,15.0
+360,Kohgiluyeh and Buyer Ahmad,2020/03/20,1.0
+361,Kohgiluyeh and Buyer Ahmad,2020/03/21,12.0
+362,Kohgiluyeh and Buyer Ahmad,2020/03/22,
+363,Chahar Mahall and Bakhtiari,2020/02/19,
+364,Chahar Mahall and Bakhtiari,2020/02/20,
+365,Chahar Mahall and Bakhtiari,2020/02/21,
+366,Chahar Mahall and Bakhtiari,2020/02/22,
+367,Chahar Mahall and Bakhtiari,2020/02/23,
+368,Chahar Mahall and Bakhtiari,2020/02/24,
+369,Chahar Mahall and Bakhtiari,2020/02/25,
+370,Chahar Mahall and Bakhtiari,2020/02/26,
+371,Chahar Mahall and Bakhtiari,2020/02/27,
+372,Chahar Mahall and Bakhtiari,2020/02/28,
+373,Chahar Mahall and Bakhtiari,2020/02/29,
+374,Chahar Mahall and Bakhtiari,2020/03/01,
+375,Chahar Mahall and Bakhtiari,2020/03/02,
+376,Chahar Mahall and Bakhtiari,2020/03/03,
+377,Chahar Mahall and Bakhtiari,2020/03/04,1.0
+378,Chahar Mahall and Bakhtiari,2020/03/05,8.0
+379,Chahar Mahall and Bakhtiari,2020/03/06,5.0
+380,Chahar Mahall and Bakhtiari,2020/03/07,2.0
+381,Chahar Mahall and Bakhtiari,2020/03/08,5.0
+382,Chahar Mahall and Bakhtiari,2020/03/09,5.0
+383,Chahar Mahall and Bakhtiari,2020/03/10,11.0
+384,Chahar Mahall and Bakhtiari,2020/03/11,1.0
+385,Chahar Mahall and Bakhtiari,2020/03/12,11.0
+386,Chahar Mahall and Bakhtiari,2020/03/13,
+387,Chahar Mahall and Bakhtiari,2020/03/14,
+388,Chahar Mahall and Bakhtiari,2020/03/15,
+389,Chahar Mahall and Bakhtiari,2020/03/16,3.0
+390,Chahar Mahall and Bakhtiari,2020/03/17,2.0
+391,Chahar Mahall and Bakhtiari,2020/03/18,4.0
+392,Chahar Mahall and Bakhtiari,2020/03/19,3.0
+393,Chahar Mahall and Bakhtiari,2020/03/20,3.0
+394,Chahar Mahall and Bakhtiari,2020/03/21,2.0
+395,Chahar Mahall and Bakhtiari,2020/03/22,2.0
+396,Bushehr,2020/02/19,
+397,Bushehr,2020/02/20,
+398,Bushehr,2020/02/21,
+399,Bushehr,2020/02/22,
+400,Bushehr,2020/02/23,
+401,Bushehr,2020/02/24,
+402,Bushehr,2020/02/25,
+403,Bushehr,2020/02/26,
+404,Bushehr,2020/02/27,
+405,Bushehr,2020/02/28,
+406,Bushehr,2020/02/29,
+407,Bushehr,2020/03/01,
+408,Bushehr,2020/03/02,
+409,Bushehr,2020/03/03,
+410,Bushehr,2020/03/04,
+411,Bushehr,2020/03/05,3.0
+412,Bushehr,2020/03/06,2.0
+413,Bushehr,2020/03/07,3.0
+414,Bushehr,2020/03/08,2.0
+415,Bushehr,2020/03/09,1.0
+416,Bushehr,2020/03/10,7.0
+417,Bushehr,2020/03/11,
+418,Bushehr,2020/03/12,3.0
+419,Bushehr,2020/03/13,
+420,Bushehr,2020/03/14,7.0
+421,Bushehr,2020/03/15,6.0
+422,Bushehr,2020/03/16,4.0
+423,Bushehr,2020/03/17,4.0
+424,Bushehr,2020/03/18,4.0
+425,Bushehr,2020/03/19,8.0
+426,Bushehr,2020/03/20,1.0
+427,Bushehr,2020/03/21,
+428,Bushehr,2020/03/22,
+429,Gilan,2020/02/19,
+430,Gilan,2020/02/20,
+431,Gilan,2020/02/21,2.0
+432,Gilan,2020/02/22,
+433,Gilan,2020/02/23,2.0
+434,Gilan,2020/02/24,2.0
+435,Gilan,2020/02/25,2.0
+436,Gilan,2020/02/26,1.0
+437,Gilan,2020/02/27,23.0
+438,Gilan,2020/02/28,25.0
+439,Gilan,2020/02/29,17.0
+440,Gilan,2020/03/01,28.0
+441,Gilan,2020/03/02,
+442,Gilan,2020/03/03,
+443,Gilan,2020/03/04,35.0
+444,Gilan,2020/03/05,80.0
+445,Gilan,2020/03/06,91.0
+446,Gilan,2020/03/07,70.0
+447,Gilan,2020/03/08,2.0
+448,Gilan,2020/03/09,28.0
+449,Gilan,2020/03/10,
+450,Gilan,2020/03/11,5.0
+451,Gilan,2020/03/12,84.0
+452,Gilan,2020/03/13,71.0
+453,Gilan,2020/03/14,113.0
+454,Gilan,2020/03/15,43.0
+455,Gilan,2020/03/16,18.0
+456,Gilan,2020/03/17,45.0
+457,Gilan,2020/03/18,21.0
+458,Gilan,2020/03/19,73.0
+459,Gilan,2020/03/20,99.0
+460,Gilan,2020/03/21,57.0
+461,Gilan,2020/03/22,38.0
+462,Ardebil,2020/02/19,
+463,Ardebil,2020/02/20,
+464,Ardebil,2020/02/21,
+465,Ardebil,2020/02/22,
+466,Ardebil,2020/02/23,
+467,Ardebil,2020/02/24,
+468,Ardebil,2020/02/25,
+469,Ardebil,2020/02/26,
+470,Ardebil,2020/02/27,5.0
+471,Ardebil,2020/02/28,1.0
+472,Ardebil,2020/02/29,3.0
+473,Ardebil,2020/03/01,
+474,Ardebil,2020/03/02,
+475,Ardebil,2020/03/03,
+476,Ardebil,2020/03/04,
+477,Ardebil,2020/03/05,17.0
+478,Ardebil,2020/03/06,11.0
+479,Ardebil,2020/03/07,1.0
+480,Ardebil,2020/03/08,9.0
+481,Ardebil,2020/03/09,22.0
+482,Ardebil,2020/03/10,19.0
+483,Ardebil,2020/03/11,1.0
+484,Ardebil,2020/03/12,14.0
+485,Ardebil,2020/03/13,15.0
+486,Ardebil,2020/03/14,33.0
+487,Ardebil,2020/03/15,
+488,Ardebil,2020/03/16,30.0
+489,Ardebil,2020/03/17,19.0
+490,Ardebil,2020/03/18,10.0
+491,Ardebil,2020/03/19,16.0
+492,Ardebil,2020/03/20,35.0
+493,Ardebil,2020/03/21,6.0
+494,Ardebil,2020/03/22,19.0
+495,East Azarbaijan,2020/02/19,
+496,East Azarbaijan,2020/02/20,
+497,East Azarbaijan,2020/02/21,
+498,East Azarbaijan,2020/02/22,
+499,East Azarbaijan,2020/02/23,
+500,East Azarbaijan,2020/02/24,
+501,East Azarbaijan,2020/02/25,
+502,East Azarbaijan,2020/02/26,
+503,East Azarbaijan,2020/02/27,2.0
+504,East Azarbaijan,2020/02/28,4.0
+505,East Azarbaijan,2020/02/29,6.0
+506,East Azarbaijan,2020/03/01,
+507,East Azarbaijan,2020/03/02,
+508,East Azarbaijan,2020/03/03,
+509,East Azarbaijan,2020/03/04,9.0
+510,East Azarbaijan,2020/03/05,10.0
+511,East Azarbaijan,2020/03/06,10.0
+512,East Azarbaijan,2020/03/07,2.0
+513,East Azarbaijan,2020/03/08,30.0
+514,East Azarbaijan,2020/03/09,22.0
+515,East Azarbaijan,2020/03/10,17.0
+516,East Azarbaijan,2020/03/11,29.0
+517,East Azarbaijan,2020/03/12,7.0
+518,East Azarbaijan,2020/03/13,97.0
+519,East Azarbaijan,2020/03/14,59.0
+520,East Azarbaijan,2020/03/15,36.0
+521,East Azarbaijan,2020/03/16,35.0
+522,East Azarbaijan,2020/03/17,78.0
+523,East Azarbaijan,2020/03/18,84.0
+524,East Azarbaijan,2020/03/19,58.0
+525,East Azarbaijan,2020/03/20,55.0
+526,East Azarbaijan,2020/03/21,72.0
+527,East Azarbaijan,2020/03/22,57.0
+528,West Azarbaijan,2020/02/19,
+529,West Azarbaijan,2020/02/20,
+530,West Azarbaijan,2020/02/21,
+531,West Azarbaijan,2020/02/22,
+532,West Azarbaijan,2020/02/23,
+533,West Azarbaijan,2020/02/24,
+534,West Azarbaijan,2020/02/25,
+535,West Azarbaijan,2020/02/26,
+536,West Azarbaijan,2020/02/27,1.0
+537,West Azarbaijan,2020/02/28,
+538,West Azarbaijan,2020/02/29,
+539,West Azarbaijan,2020/03/01,
+540,West Azarbaijan,2020/03/02,
+541,West Azarbaijan,2020/03/03,
+542,West Azarbaijan,2020/03/04,
+543,West Azarbaijan,2020/03/05,5.0
+544,West Azarbaijan,2020/03/06,1.0
+545,West Azarbaijan,2020/03/07,22.0
+546,West Azarbaijan,2020/03/08,7.0
+547,West Azarbaijan,2020/03/09,29.0
+548,West Azarbaijan,2020/03/10,4.0
+549,West Azarbaijan,2020/03/11,27.0
+550,West Azarbaijan,2020/03/12,19.0
+551,West Azarbaijan,2020/03/13,25.0
+552,West Azarbaijan,2020/03/14,31.0
+553,West Azarbaijan,2020/03/15,18.0
+554,West Azarbaijan,2020/03/16,31.0
+555,West Azarbaijan,2020/03/17,34.0
+556,West Azarbaijan,2020/03/18,42.0
+557,West Azarbaijan,2020/03/19,26.0
+558,West Azarbaijan,2020/03/20,27.0
+559,West Azarbaijan,2020/03/21,14.0
+560,West Azarbaijan,2020/03/22,28.0
+561,Kordestan,2020/02/19,
+562,Kordestan,2020/02/20,
+563,Kordestan,2020/02/21,
+564,Kordestan,2020/02/22,
+565,Kordestan,2020/02/23,
+566,Kordestan,2020/02/24,
+567,Kordestan,2020/02/25,
+568,Kordestan,2020/02/26,
+569,Kordestan,2020/02/27,1.0
+570,Kordestan,2020/02/28,2.0
+571,Kordestan,2020/02/29,5.0
+572,Kordestan,2020/03/01,
+573,Kordestan,2020/03/02,
+574,Kordestan,2020/03/03,
+575,Kordestan,2020/03/04,4.0
+576,Kordestan,2020/03/05,6.0
+577,Kordestan,2020/03/06,24.0
+578,Kordestan,2020/03/07,2.0
+579,Kordestan,2020/03/08,19.0
+580,Kordestan,2020/03/09,3.0
+581,Kordestan,2020/03/10,12.0
+582,Kordestan,2020/03/11,6.0
+583,Kordestan,2020/03/12,9.0
+584,Kordestan,2020/03/13,9.0
+585,Kordestan,2020/03/14,5.0
+586,Kordestan,2020/03/15,27.0
+587,Kordestan,2020/03/16,31.0
+588,Kordestan,2020/03/17,2.0
+589,Kordestan,2020/03/18,22.0
+590,Kordestan,2020/03/19,11.0
+591,Kordestan,2020/03/20,15.0
+592,Kordestan,2020/03/21,7.0
+593,Kordestan,2020/03/22,16.0
+594,Zanjan,2020/02/19,
+595,Zanjan,2020/02/20,
+596,Zanjan,2020/02/21,
+597,Zanjan,2020/02/22,
+598,Zanjan,2020/02/23,
+599,Zanjan,2020/02/24,
+600,Zanjan,2020/02/25,
+601,Zanjan,2020/02/26,
+602,Zanjan,2020/02/27,
+603,Zanjan,2020/02/28,
+604,Zanjan,2020/02/29,
+605,Zanjan,2020/03/01,
+606,Zanjan,2020/03/02,
+607,Zanjan,2020/03/03,
+608,Zanjan,2020/03/04,6.0
+609,Zanjan,2020/03/05,7.0
+610,Zanjan,2020/03/06,35.0
+611,Zanjan,2020/03/07,2.0
+612,Zanjan,2020/03/08,1.0
+613,Zanjan,2020/03/09,15.0
+614,Zanjan,2020/03/10,11.0
+615,Zanjan,2020/03/11,22.0
+616,Zanjan,2020/03/12,17.0
+617,Zanjan,2020/03/13,20.0
+618,Zanjan,2020/03/14,31.0
+619,Zanjan,2020/03/15,32.0
+620,Zanjan,2020/03/16,15.0
+621,Zanjan,2020/03/17,25.0
+622,Zanjan,2020/03/18,20.0
+623,Zanjan,2020/03/19,26.0
+624,Zanjan,2020/03/20,44.0
+625,Zanjan,2020/03/21,35.0
+626,Zanjan,2020/03/22,28.0
+627,Markazi,2020/02/19,
+628,Markazi,2020/02/20,1.0
+629,Markazi,2020/02/21,
+630,Markazi,2020/02/22,
+631,Markazi,2020/02/23,1.0
+632,Markazi,2020/02/24,2.0
+633,Markazi,2020/02/25,
+634,Markazi,2020/02/26,1.0
+635,Markazi,2020/02/27,
+636,Markazi,2020/02/28,
+637,Markazi,2020/02/29,18.0
+638,Markazi,2020/03/01,44.0
+639,Markazi,2020/03/02,
+640,Markazi,2020/03/03,
+641,Markazi,2020/03/04,8.0
+642,Markazi,2020/03/05,31.0
+643,Markazi,2020/03/06,48.0
+644,Markazi,2020/03/07,37.0
+645,Markazi,2020/03/08,70.0
+646,Markazi,2020/03/09,54.0
+647,Markazi,2020/03/10,27.0
+648,Markazi,2020/03/11,31.0
+649,Markazi,2020/03/12,88.0
+650,Markazi,2020/03/13,48.0
+651,Markazi,2020/03/14,115.0
+652,Markazi,2020/03/15,
+653,Markazi,2020/03/16,14.0
+654,Markazi,2020/03/17,47.0
+655,Markazi,2020/03/18,23.0
+656,Markazi,2020/03/19,47.0
+657,Markazi,2020/03/20,17.0
+658,Markazi,2020/03/21,
+659,Markazi,2020/03/22,36.0
+660,Hamadan,2020/02/19,
+661,Hamadan,2020/02/20,
+662,Hamadan,2020/02/21,
+663,Hamadan,2020/02/22,
+664,Hamadan,2020/02/23,
+665,Hamadan,2020/02/24,1.0
+666,Hamadan,2020/02/25,
+667,Hamadan,2020/02/26,
+668,Hamadan,2020/02/27,1.0
+669,Hamadan,2020/02/28,
+670,Hamadan,2020/02/29,
+671,Hamadan,2020/03/01,3.0
+672,Hamadan,2020/03/02,
+673,Hamadan,2020/03/03,
+674,Hamadan,2020/03/04,
+675,Hamadan,2020/03/05,6.0
+676,Hamadan,2020/03/06,7.0
+677,Hamadan,2020/03/07,11.0
+678,Hamadan,2020/03/08,26.0
+679,Hamadan,2020/03/09,
+680,Hamadan,2020/03/10,17.0
+681,Hamadan,2020/03/11,7.0
+682,Hamadan,2020/03/12,12.0
+683,Hamadan,2020/03/13,10.0
+684,Hamadan,2020/03/14,7.0
+685,Hamadan,2020/03/15,11.0
+686,Hamadan,2020/03/16,12.0
+687,Hamadan,2020/03/17,6.0
+688,Hamadan,2020/03/18,13.0
+689,Hamadan,2020/03/19,3.0
+690,Hamadan,2020/03/20,5.0
+691,Hamadan,2020/03/21,5.0
+692,Hamadan,2020/03/22,7.0
+693,Khuzestan,2020/02/19,
+694,Khuzestan,2020/02/20,
+695,Khuzestan,2020/02/21,
+696,Khuzestan,2020/02/22,
+697,Khuzestan,2020/02/23,
+698,Khuzestan,2020/02/24,
+699,Khuzestan,2020/02/25,
+700,Khuzestan,2020/02/26,3.0
+701,Khuzestan,2020/02/27,
+702,Khuzestan,2020/02/28,3.0
+703,Khuzestan,2020/02/29,4.0
+704,Khuzestan,2020/03/01,9.0
+705,Khuzestan,2020/03/02,
+706,Khuzestan,2020/03/03,
+707,Khuzestan,2020/03/04,27.0
+708,Khuzestan,2020/03/05,1.0
+709,Khuzestan,2020/03/06,
+710,Khuzestan,2020/03/07,1.0
+711,Khuzestan,2020/03/08,5.0
+712,Khuzestan,2020/03/09,4.0
+713,Khuzestan,2020/03/10,37.0
+714,Khuzestan,2020/03/11,17.0
+715,Khuzestan,2020/03/12,31.0
+716,Khuzestan,2020/03/13,15.0
+717,Khuzestan,2020/03/14,48.0
+718,Khuzestan,2020/03/15,32.0
+719,Khuzestan,2020/03/16,53.0
+720,Khuzestan,2020/03/17,25.0
+721,Khuzestan,2020/03/18,28.0
+722,Khuzestan,2020/03/19,22.0
+723,Khuzestan,2020/03/20,10.0
+724,Khuzestan,2020/03/21,31.0
+725,Khuzestan,2020/03/22,22.0
+726,Kermanshah,2020/02/19,
+727,Kermanshah,2020/02/20,
+728,Kermanshah,2020/02/21,
+729,Kermanshah,2020/02/22,
+730,Kermanshah,2020/02/23,
+731,Kermanshah,2020/02/24,
+732,Kermanshah,2020/02/25,
+733,Kermanshah,2020/02/26,1.0
+734,Kermanshah,2020/02/27,2.0
+735,Kermanshah,2020/02/28,
+736,Kermanshah,2020/02/29,
+737,Kermanshah,2020/03/01,2.0
+738,Kermanshah,2020/03/02,
+739,Kermanshah,2020/03/03,
+740,Kermanshah,2020/03/04,15.0
+741,Kermanshah,2020/03/05,
+742,Kermanshah,2020/03/06,5.0
+743,Kermanshah,2020/03/07,4.0
+744,Kermanshah,2020/03/08,2.0
+745,Kermanshah,2020/03/09,11.0
+746,Kermanshah,2020/03/10,7.0
+747,Kermanshah,2020/03/11,8.0
+748,Kermanshah,2020/03/12,20.0
+749,Kermanshah,2020/03/13,15.0
+750,Kermanshah,2020/03/14,8.0
+751,Kermanshah,2020/03/15,13.0
+752,Kermanshah,2020/03/16,16.0
+753,Kermanshah,2020/03/17,14.0
+754,Kermanshah,2020/03/18,7.0
+755,Kermanshah,2020/03/19,23.0
+756,Kermanshah,2020/03/20,22.0
+757,Kermanshah,2020/03/21,27.0
+758,Kermanshah,2020/03/22,19.0
+759,Lorestan,2020/02/19,
+760,Lorestan,2020/02/20,
+761,Lorestan,2020/02/21,
+762,Lorestan,2020/02/22,
+763,Lorestan,2020/02/23,
+764,Lorestan,2020/02/24,
+765,Lorestan,2020/02/25,
+766,Lorestan,2020/02/26,1.0
+767,Lorestan,2020/02/27,3.0
+768,Lorestan,2020/02/28,
+769,Lorestan,2020/02/29,
+770,Lorestan,2020/03/01,8.0
+771,Lorestan,2020/03/02,
+772,Lorestan,2020/03/03,
+773,Lorestan,2020/03/04,5.0
+774,Lorestan,2020/03/05,11.0
+775,Lorestan,2020/03/06,50.0
+776,Lorestan,2020/03/07,27.0
+777,Lorestan,2020/03/08,37.0
+778,Lorestan,2020/03/09,7.0
+779,Lorestan,2020/03/10,25.0
+780,Lorestan,2020/03/11,9.0
+781,Lorestan,2020/03/12,25.0
+782,Lorestan,2020/03/13,25.0
+783,Lorestan,2020/03/14,2.0
+784,Lorestan,2020/03/15,52.0
+785,Lorestan,2020/03/16,
+786,Lorestan,2020/03/17,35.0
+787,Lorestan,2020/03/18,39.0
+788,Lorestan,2020/03/19,37.0
+789,Lorestan,2020/03/20,9.0
+790,Lorestan,2020/03/21,34.0
+791,Lorestan,2020/03/22,33.0
+792,Ilam,2020/02/19,
+793,Ilam,2020/02/20,
+794,Ilam,2020/02/21,
+795,Ilam,2020/02/22,
+796,Ilam,2020/02/23,
+797,Ilam,2020/02/24,
+798,Ilam,2020/02/25,
+799,Ilam,2020/02/26,
+800,Ilam,2020/02/27,
+801,Ilam,2020/02/28,
+802,Ilam,2020/02/29,1.0
+803,Ilam,2020/03/01,1.0
+804,Ilam,2020/03/02,
+805,Ilam,2020/03/03,
+806,Ilam,2020/03/04,7.0
+807,Ilam,2020/03/05,
+808,Ilam,2020/03/06,2.0
+809,Ilam,2020/03/07,2.0
+810,Ilam,2020/03/08,
+811,Ilam,2020/03/09,16.0
+812,Ilam,2020/03/10,25.0
+813,Ilam,2020/03/11,6.0
+814,Ilam,2020/03/12,7.0
+815,Ilam,2020/03/13,8.0
+816,Ilam,2020/03/14,6.0
+817,Ilam,2020/03/15,18.0
+818,Ilam,2020/03/16,2.0
+819,Ilam,2020/03/17,7.0
+820,Ilam,2020/03/18,10.0
+821,Ilam,2020/03/19,8.0
+822,Ilam,2020/03/20,20.0
+823,Ilam,2020/03/21,18.0
+824,Ilam,2020/03/22,17.0
+825,Razavi Khorasan,2020/02/19,
+826,Razavi Khorasan,2020/02/20,
+827,Razavi Khorasan,2020/02/21,
+828,Razavi Khorasan,2020/02/22,
+829,Razavi Khorasan,2020/02/23,
+830,Razavi Khorasan,2020/02/24,
+831,Razavi Khorasan,2020/02/25,1.0
+832,Razavi Khorasan,2020/02/26,
+833,Razavi Khorasan,2020/02/27,1.0
+834,Razavi Khorasan,2020/02/28,
+835,Razavi Khorasan,2020/02/29,
+836,Razavi Khorasan,2020/03/01,17.0
+837,Razavi Khorasan,2020/03/02,
+838,Razavi Khorasan,2020/03/03,
+839,Razavi Khorasan,2020/03/04,8.0
+840,Razavi Khorasan,2020/03/05,53.0
+841,Razavi Khorasan,2020/03/06,
+842,Razavi Khorasan,2020/03/07,46.0
+843,Razavi Khorasan,2020/03/08,19.0
+844,Razavi Khorasan,2020/03/09,29.0
+845,Razavi Khorasan,2020/03/10,39.0
+846,Razavi Khorasan,2020/03/11,34.0
+847,Razavi Khorasan,2020/03/12,29.0
+848,Razavi Khorasan,2020/03/13,110.0
+849,Razavi Khorasan,2020/03/14,30.0
+850,Razavi Khorasan,2020/03/15,143.0
+851,Razavi Khorasan,2020/03/16,
+852,Razavi Khorasan,2020/03/17,63.0
+853,Razavi Khorasan,2020/03/18,30.0
+854,Razavi Khorasan,2020/03/19,50.0
+855,Razavi Khorasan,2020/03/20,48.0
+856,Razavi Khorasan,2020/03/21,57.0
+857,Razavi Khorasan,2020/03/22,42.0
+858,Sistan and Baluchestan,2020/02/19,
+859,Sistan and Baluchestan,2020/02/20,
+860,Sistan and Baluchestan,2020/02/21,
+861,Sistan and Baluchestan,2020/02/22,
+862,Sistan and Baluchestan,2020/02/23,
+863,Sistan and Baluchestan,2020/02/24,
+864,Sistan and Baluchestan,2020/02/25,
+865,Sistan and Baluchestan,2020/02/26,2.0
+866,Sistan and Baluchestan,2020/02/27,
+867,Sistan and Baluchestan,2020/02/28,
+868,Sistan and Baluchestan,2020/02/29,1.0
+869,Sistan and Baluchestan,2020/03/01,2.0
+870,Sistan and Baluchestan,2020/03/02,
+871,Sistan and Baluchestan,2020/03/03,
+872,Sistan and Baluchestan,2020/03/04,8.0
+873,Sistan and Baluchestan,2020/03/05,5.0
+874,Sistan and Baluchestan,2020/03/06,2.0
+875,Sistan and Baluchestan,2020/03/07,13.0
+876,Sistan and Baluchestan,2020/03/08,
+877,Sistan and Baluchestan,2020/03/09,
+878,Sistan and Baluchestan,2020/03/10,6.0
+879,Sistan and Baluchestan,2020/03/11,4.0
+880,Sistan and Baluchestan,2020/03/12,6.0
+881,Sistan and Baluchestan,2020/03/13,2.0
+882,Sistan and Baluchestan,2020/03/14,2.0
+883,Sistan and Baluchestan,2020/03/15,6.0
+884,Sistan and Baluchestan,2020/03/16,11.0
+885,Sistan and Baluchestan,2020/03/17,11.0
+886,Sistan and Baluchestan,2020/03/18,6.0
+887,Sistan and Baluchestan,2020/03/19,18.0
+888,Sistan and Baluchestan,2020/03/20,8.0
+889,Sistan and Baluchestan,2020/03/21,5.0
+890,Sistan and Baluchestan,2020/03/22,15.0
+891,Yazd,2020/02/19,
+892,Yazd,2020/02/20,
+893,Yazd,2020/02/21,
+894,Yazd,2020/02/22,
+895,Yazd,2020/02/23,
+896,Yazd,2020/02/24,
+897,Yazd,2020/02/25,
+898,Yazd,2020/02/26,
+899,Yazd,2020/02/27,1.0
+900,Yazd,2020/02/28,
+901,Yazd,2020/02/29,4.0
+902,Yazd,2020/03/01,
+903,Yazd,2020/03/02,
+904,Yazd,2020/03/03,
+905,Yazd,2020/03/04,
+906,Yazd,2020/03/05,
+907,Yazd,2020/03/06,50.0
+908,Yazd,2020/03/07,24.0
+909,Yazd,2020/03/08,6.0
+910,Yazd,2020/03/09,3.0
+911,Yazd,2020/03/10,37.0
+912,Yazd,2020/03/11,23.0
+913,Yazd,2020/03/12,21.0
+914,Yazd,2020/03/13,46.0
+915,Yazd,2020/03/14,73.0
+916,Yazd,2020/03/15,36.0
+917,Yazd,2020/03/16,51.0
+918,Yazd,2020/03/17,49.0
+919,Yazd,2020/03/18,45.0
+920,Yazd,2020/03/19,69.0
+921,Yazd,2020/03/20,49.0
+922,Yazd,2020/03/21,52.0
+923,Yazd,2020/03/22,84.0
+924,South Khorasan,2020/02/19,
+925,South Khorasan,2020/02/20,
+926,South Khorasan,2020/02/21,
+927,South Khorasan,2020/02/22,
+928,South Khorasan,2020/02/23,
+929,South Khorasan,2020/02/24,
+930,South Khorasan,2020/02/25,
+931,South Khorasan,2020/02/26,
+932,South Khorasan,2020/02/27,
+933,South Khorasan,2020/02/28,
+934,South Khorasan,2020/02/29,1.0
+935,South Khorasan,2020/03/01,2.0
+936,South Khorasan,2020/03/02,
+937,South Khorasan,2020/03/03,
+938,South Khorasan,2020/03/04,
+939,South Khorasan,2020/03/05,9.0
+940,South Khorasan,2020/03/06,3.0
+941,South Khorasan,2020/03/07,
+942,South Khorasan,2020/03/08,26.0
+943,South Khorasan,2020/03/09,-7.0
+944,South Khorasan,2020/03/10,14.0
+945,South Khorasan,2020/03/11,15.0
+946,South Khorasan,2020/03/12,12.0
+947,South Khorasan,2020/03/13,
+948,South Khorasan,2020/03/14,4.0
+949,South Khorasan,2020/03/15,18.0
+950,South Khorasan,2020/03/16,7.0
+951,South Khorasan,2020/03/17,12.0
+952,South Khorasan,2020/03/18,21.0
+953,South Khorasan,2020/03/19,5.0
+954,South Khorasan,2020/03/20,18.0
+955,South Khorasan,2020/03/21,
+956,South Khorasan,2020/03/22,15.0
+957,Kerman,2020/02/19,
+958,Kerman,2020/02/20,
+959,Kerman,2020/02/21,
+960,Kerman,2020/02/22,
+961,Kerman,2020/02/23,
+962,Kerman,2020/02/24,
+963,Kerman,2020/02/25,
+964,Kerman,2020/02/26,
+965,Kerman,2020/02/27,
+966,Kerman,2020/02/28,
+967,Kerman,2020/02/29,
+968,Kerman,2020/03/01,2.0
+969,Kerman,2020/03/02,
+970,Kerman,2020/03/03,
+971,Kerman,2020/03/04,14.0
+972,Kerman,2020/03/05,
+973,Kerman,2020/03/06,7.0
+974,Kerman,2020/03/07,15.0
+975,Kerman,2020/03/08,1.0
+976,Kerman,2020/03/09,-5.0
+977,Kerman,2020/03/10,4.0
+978,Kerman,2020/03/11,18.0
+979,Kerman,2020/03/12,7.0
+980,Kerman,2020/03/13,12.0
+981,Kerman,2020/03/14,
+982,Kerman,2020/03/15,7.0
+983,Kerman,2020/03/16,13.0
+984,Kerman,2020/03/17,19.0
+985,Kerman,2020/03/18,11.0
+986,Kerman,2020/03/19,14.0
+987,Kerman,2020/03/20,12.0
+988,Kerman,2020/03/21,8.0
+989,Kerman,2020/03/22,8.0
+990,North Khorasan,2020/02/19,
+991,North Khorasan,2020/02/20,
+992,North Khorasan,2020/02/21,
+993,North Khorasan,2020/02/22,
+994,North Khorasan,2020/02/23,
+995,North Khorasan,2020/02/24,
+996,North Khorasan,2020/02/25,
+997,North Khorasan,2020/02/26,
+998,North Khorasan,2020/02/27,
+999,North Khorasan,2020/02/28,
+1000,North Khorasan,2020/02/29,
+1001,North Khorasan,2020/03/01,
+1002,North Khorasan,2020/03/02,
+1003,North Khorasan,2020/03/03,
+1004,North Khorasan,2020/03/04,1.0
+1005,North Khorasan,2020/03/05,2.0
+1006,North Khorasan,2020/03/06,12.0
+1007,North Khorasan,2020/03/07,8.0
+1008,North Khorasan,2020/03/08,1.0
+1009,North Khorasan,2020/03/09,10.0
+1010,North Khorasan,2020/03/10,
+1011,North Khorasan,2020/03/11,11.0
+1012,North Khorasan,2020/03/12,
+1013,North Khorasan,2020/03/13,42.0
+1014,North Khorasan,2020/03/14,1.0
+1015,North Khorasan,2020/03/15,6.0
+1016,North Khorasan,2020/03/16,45.0
+1017,North Khorasan,2020/03/17,3.0
+1018,North Khorasan,2020/03/18,
+1019,North Khorasan,2020/03/19,21.0
+1020,North Khorasan,2020/03/20,17.0
+1021,North Khorasan,2020/03/21,1.0
+1022,North Khorasan,2020/03/22,26.0
