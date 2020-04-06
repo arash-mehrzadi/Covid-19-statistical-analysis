@@ -15,7 +15,7 @@
 
 ![](/Temp(Not_Important)/Gifs/Bubble_Geomap_GIF.gif)
 
-In this section I used[Dataset_LAT_LON_cumsum.csv](https://github.com/arash-mehrzadi/Covid-19-statistical-analysis/blob/master/Data/Dataset_LAT_LON_cumsum.csv) , The dataset contains reports of deaths from coronavirus and improved numbers of people and patients. These data have been collected separately from 32 provinces of Iran and the geographical location of the provinces to work with geographical charts has been stored in this dataset.I have used this data to plot the geographic distribution of the Corona virus casualties 
+In this section I used[Dataset_LAT_LON_cumsum.csv](https://github.com/arash-mehrzadi/Covid-19-statistical-analysis/blob/master/Data/Dataset_LAT_LON_cumsum.csv) , The dataset contains reports of deaths from coronavirus and improved numbers of patients. These data have been collected separately from 32 provinces of Iran and the geographical location of the provinces added to work with geographical charts . I have used this data to plot the geographic distribution of the Corona virus casualties .
 
 # Geographical Charts
 
